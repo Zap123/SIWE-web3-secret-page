@@ -1,5 +1,5 @@
 ## Description
-This is just an example on how to use Ethereum [https://docs.login.xyz/general-information/siwe-overview/eip-4361](SIWE) Authentication to have a secret page in Web3 using [https://nextjs.org/](Nextjs) and [https://metamask.io/](Metamask) Wallet
+This is just an example on how to use Ethereum [SIWE](https://docs.login.xyz/general-information/siwe-overview/eip-4361) Authentication to have a secret page in Web3 using [NextJs](https://nextjs.org/) and [Metamask](https://metamask.io/) Wallet
 
 ## Running the backend
 
