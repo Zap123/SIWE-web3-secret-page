@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bufferutil": "^4.0.7",
+    "ethers": "^6.6.5",
+    "siwe": "^2.1.4",
+    "utf-8-validate": "^6.0.3"
+  }
+}
